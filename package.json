@@ -1,6 +1,6 @@
 {
 	"name": "vue-progress-avatar",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Avatar with progress bar",
 	"main": "dist/vue-progress-avatar.ssr.js",
 	"browser": "dist/vue-progress-avatar.esm.js",
