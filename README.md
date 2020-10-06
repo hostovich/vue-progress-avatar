@@ -1,3 +1,19 @@
+## Install
+
+```sh
+# using in your project
+npm i vue-progress-avatar
+```
+
+## Nuxt
+
+```sh
+import Vue from 'vue';
+import VueProgressAvatar from "vue-progress-avatar";
+
+Vue.use(VueProgressAvatar);
+```
+
 ## Props
 
 | Name            | Type            | Description                                | Default                      |
