@@ -10,6 +10,12 @@
 		"dist/*",
 		"src/**/*.vue"
 	],
+	"keywords": [
+		"vue",
+		"progress",
+		"avatar",
+		"circle"
+	],
 	"repository": {
 		"type": "git",
 		"url": "git:github.com/hostovich/vue-progress-avatar"

@@ -12,7 +12,7 @@ npm i vue-progress-avatar
 
 ```sh
 import Vue from 'vue';
-import VueProgressAvatar from "vue-progress-avatar";
+import VueProgressAvatar from 'vue-progress-avatar';
 
 Vue.use(VueProgressAvatar);
 ```
